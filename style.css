@@ -128,7 +128,7 @@ header .fa-bars {
   display: flex;
   align-items: center;
   min-height: 100vh;
-  background: url(../images/home-bg.jpg) no-repeat;
+  background: url(/jayron08.github.io/images/home-bg.jpg);
   background-size: cover;
   background-position: center;
 }
