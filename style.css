@@ -104,9 +104,6 @@ header .icons a:hover {
   color: var(--pink);
 }
 
-header #toggler {
-  display: none;
-}
 
 header .fa-bars {
   font-size: 3rem;
