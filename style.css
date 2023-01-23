@@ -126,7 +126,8 @@ header .fa-bars {
   align-items: center;
   min-height: 100vh;
 /*   background: url("/jayron08.github.io/images/home-bg.jpg"); */
-  background: url("/home-bg.jpg");
+/*   background: url("/home-bg.jpg"); */
+  background: url("https://jayron08.github.io/images/home-bg.jpg");
   background-size: cover;
   background-position: center;
 }
