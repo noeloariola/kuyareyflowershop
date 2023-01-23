@@ -329,10 +329,10 @@ header .fa-bars {
   display: flex;
   justify-content: center;
   align-items: center;
-
   position: relative;
   z-index: 2;
   padding: 50px 0;
+  margin-bottom: 100px;
 }
 
 .testimonial-area .container {
@@ -426,7 +426,7 @@ header .fa-bars {
  font-family: FontAwesome;
  left: -35px;
  top: -35px;
- background: #fff;
+/*  background: #fff; */
  font-size: 80px;
  width: 126px;
  height: 100px; 
@@ -438,7 +438,7 @@ header .fa-bars {
   font-family: FontAwesome;
   right: -35px;
   bottom: -35px;
-  background: #fff;
+/*   background: #fff; */
   font-size: 80px;
   width: 126px;
   height: 100px; 
